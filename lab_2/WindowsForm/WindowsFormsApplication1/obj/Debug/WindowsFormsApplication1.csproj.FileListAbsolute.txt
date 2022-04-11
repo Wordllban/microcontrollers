@@ -1,0 +1,50 @@
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\dosko\OneDrive\Рабочий стол\мк\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\dosko\OneDrive\Рабочий стол\мк\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\dosko\OneDrive\Рабочий стол\мк\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\dosko\OneDrive\Рабочий стол\мк\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\dosko\OneDrive\Рабочий стол\мк\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dosko\OneDrive\Рабочий стол\мк\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dosko\OneDrive\Рабочий стол\мк\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\dosko\OneDrive\Рабочий стол\мк\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\dosko\OneDrive\Рабочий стол\мк\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\dosko\OneDrive\Рабочий стол\мк\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Wordllban\Desktop\lab-22\WindowsFormMaria\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Wordllban\Desktop\lab-22\WindowsFormMaria\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Wordllban\Desktop\lab-22\WindowsFormMaria\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Wordllban\Desktop\lab-22\WindowsFormMaria\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\Wordllban\Desktop\lab-22\WindowsFormMaria\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wordllban\Desktop\lab-22\WindowsFormMaria\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Wordllban\Desktop\lab-22\WindowsFormMaria\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Wordllban\Desktop\lab-22\WindowsFormMaria\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Wordllban\Desktop\lab-22\WindowsFormMaria\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Wordllban\Desktop\lab-22\WindowsFormMaria\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Wordllban\Desktop\lab-22\WindowsFormMaria\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Wordllban\Desktop\lab-2\WindowsFormMaria\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Wordllban\Desktop\lab-2\WindowsFormMaria\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Wordllban\Desktop\lab-2\WindowsFormMaria\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Wordllban\Desktop\lab-2\WindowsFormMaria\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\Wordllban\Desktop\lab-2\WindowsFormMaria\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wordllban\Desktop\lab-2\WindowsFormMaria\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Wordllban\Desktop\lab-2\WindowsFormMaria\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Wordllban\Desktop\lab-2\WindowsFormMaria\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Wordllban\Desktop\lab-2\WindowsFormMaria\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Wordllban\Desktop\lab-2\WindowsFormMaria\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Wordllban\Desktop\lab-2\WindowsFormMaria\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
