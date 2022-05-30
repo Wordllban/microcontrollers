@@ -1,0 +1,45 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\Wordllban\Desktop\fuck\AssemblerApplication1\AssemblerApplication1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/AVR Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>D:\AVR Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Wordllban\Desktop\fuck\AssemblerApplication1\AssemblerApplication1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/AVR Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Wordllban\Desktop\fuck\AssemblerApplication1\AssemblerApplication1\Debug\AssemblerApplication1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication1.map</FILE>
+  <FILE>AssemblerApplication1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\Wordllban\Desktop\fuck\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>67</LINE></RESET>
+  <TIMER3_COMPA><FILE>C:\Users\Wordllban\Desktop\fuck\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>17</LINE></TIMER3_COMPA>
+  <ALGORITHM_1><FILE>C:\Users\Wordllban\Desktop\fuck\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>25</LINE></ALGORITHM_1>
+  <ALGORITHM_2><FILE>C:\Users\Wordllban\Desktop\fuck\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>46</LINE></ALGORITHM_2>
+  <algo_1_vec><FILE>C:\Users\Wordllban\Desktop\fuck\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>69</LINE></algo_1_vec>
+  <ALGORITHM_1_END><FILE>C:\Users\Wordllban\Desktop\fuck\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>38</LINE></ALGORITHM_1_END>
+  <algo_2_vec><FILE>C:\Users\Wordllban\Desktop\fuck\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>70</LINE></algo_2_vec>
+  <ALGORITHM_2_END><FILE>C:\Users\Wordllban\Desktop\fuck\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>59</LINE></ALGORITHM_2_END>
+  <main><FILE>C:\Users\Wordllban\Desktop\fuck\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>114</LINE></main>
+  <BUTTON_1><FILE>C:\Users\Wordllban\Desktop\fuck\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>123</LINE></BUTTON_1>
+  <BUTTON_2><FILE>C:\Users\Wordllban\Desktop\fuck\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>148</LINE></BUTTON_2>
+  <STOP_ALGORITHM_1><FILE>C:\Users\Wordllban\Desktop\fuck\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>141</LINE></STOP_ALGORITHM_1>
+  <START_ALGORITHM_1><FILE>C:\Users\Wordllban\Desktop\fuck\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>136</LINE></START_ALGORITHM_1>
+  <BUTTON_1_RETURN><FILE>C:\Users\Wordllban\Desktop\fuck\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>131</LINE></BUTTON_1_RETURN>
+  <DELAY><FILE>C:\Users\Wordllban\Desktop\fuck\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>173</LINE></DELAY>
+  <STOP_ALGORITHM_2><FILE>C:\Users\Wordllban\Desktop\fuck\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>166</LINE></STOP_ALGORITHM_2>
+  <START_ALGORITHM_2><FILE>C:\Users\Wordllban\Desktop\fuck\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>161</LINE></START_ALGORITHM_2>
+  <BUTTON_2_RETURN><FILE>C:\Users\Wordllban\Desktop\fuck\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>156</LINE></BUTTON_2_RETURN>
+  <DELAY_LOOP><FILE>C:\Users\Wordllban\Desktop\fuck\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>175</LINE></DELAY_LOOP>
+ </LABELS>
+</ASSEMBLER_INFO>
